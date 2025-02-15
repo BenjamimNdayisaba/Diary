@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713373340 source:c:\users\ben\desktop\c projects\personal diary management\diary.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
